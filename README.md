@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm an undergraduate student at the Sabaragamuwa University of Sri Lanka, currently pursuing a BSc (Hons) in Computing and Information Systems. I’m passionate about both frontend and backend web development, as well as mobile app development.<br><br>💻 I enjoy turning ideas into real, functional digital experiences<br><br>🌐 Interested in technologies like HTML, CSS, JavaScript, React, Node.js, and Flutter<br><br>📱 Working on improving my skills in full-stack and cross-platform development<br><br>🌱 Always learning and exploring new tools and frameworks<br><br>Thanks for stopping by! 🚀
+Hi! I'm an undergraduate student at the Sabaragamuwa University of Sri Lanka, currently pursuing a BSc (Hons) in Computing and Information Systems. I’m passionate about both frontend and backend web development, as well as mobile app development.<br>💻 I enjoy turning ideas into real, functional digital experiences<br>🌐 Interested in technologies like HTML, CSS, JavaScript, React, Node.js, and Flutter<br>📱 Working on improving my skills in full-stack and cross-platform development<br>🌱 Always learning and exploring new tools and frameworks<br>Thanks for stopping by! 🚀
 
 
 # 💻 Tech Stack:
